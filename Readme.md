@@ -2,6 +2,10 @@
 
 ---
 
+**URL**: [https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies]
+
+---
+
 Collaborated in role-playing as a consulting company aiming to unlock opportunities for Netflix to expand their customer base by identifying the best-rated genres, production countries, actors, and directors.
 
 This project is associated with the Big Blue Data Science Bootcamp - April 2024. Duration: 1 day.
