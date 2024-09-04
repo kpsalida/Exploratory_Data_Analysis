@@ -9,16 +9,14 @@ We role-played as a consulting company aiming to unlock opportunities for Netfli
 This project is associated with the Big Blue Data Science Bootcamp - April 2024. Duration: 1 day.
 
 ## Project Organization
-```
-├── README.md   <- The top-level README for navigating this project
+├── README.md        <- The top-level README for navigating this project
 
-├── data        <- The original data from Kaggle, sliced for years 2015 - 2022
+├── data             <- The original data from Kaggle, sliced for years 2015 - 2022
 
-├── notebook    <- Jupyter notebooks with data transformations and manipulation
+├── notebook         <- Jupyter notebooks with data transformations and manipulation
 
-├── presentation <- Presentation with findings
+├── presentation     <- Presentation with findings
 
-```
 ## Participants
 
 - Katerina Psallida
