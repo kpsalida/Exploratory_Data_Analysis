@@ -1,32 +1,24 @@
-# Exploratory data analysis of Netflix best rated products 
+# Exploratory Data Analysis of Netflix's Best Rated Products
 
-==============================================================================
+---
 
-URL 
+**URL**: [Insert URL here]
 
-We role-played being a consulting company aiming to unlock opportunities for Netflix in order to expand their customer base by identifying the best rated gernes, production countries, actors and directors.
+We role-played as a consulting company aiming to unlock opportunities for Netflix to expand their customer base by identifying the best-rated genres, production countries, actors, and directors.
 
-Project associated with Big Blue Data Science Bootcamp - April 2024. Duration: 1 day
+This project is associated with the Big Blue Data Science Bootcamp - April 2024. Duration: 1 day.
 
+## Project Organization
+├── README.md <- The top-level README for navigating this project
 
-# Project Organization
+├── data <- The original data from Kaggle, sliced for years 2015 - 2022
 
-├── **README.md**                   <- The top-level README for navigating this project
+├── notebook <- Jupyter notebooks with data transformations and manipulation
 
-├── **data**                        <- The original data from Kaggle sliced for yrs 2015 - 2022
+├── presentation <- Presentation with findings
 
-├──**notebook**                     <- Jupyter notebooks with Data Transformations and manipulation
+## Participants
 
-├── **presentation**                <- Presentation with findings
-
-
-# Participants
-
-├── Katerina Psallida 
-
-└── Clelia Chelmi 
-
-└── Lilly Kolliniati
-
-
-
+- Katerina Psallida
+- Clelia Chelmi
+- Lilly Kolliniati
